@@ -1,0 +1,6 @@
+Olá! Eu me chamo Erick Martins Silva, tenho 18 anos e estou no segundo período no curso de Bacharelado em Ciência da
+Computação no CEFET/RJ. Nasci na Região dos Lagos e vivi boa parte da minha infância lá, mas tive que me mudar pra
+capital depois dos meus 9 anos. Sempre gostei de tecnologia desde muito cedo, e não consigo me ver atuando em outra
+área. Meu primeiro contato com programação foi por meio de um minicurso online introdutório de C oferecido pela 
+Microsoft, que não cheguei a terminar. No meu tempo livre, gosto de jogar (sempre preferi jogos modo história de um
+jogador do que jogos competitivos multijogadores) e ouvir música (escuto rock, rap e outros estilos).
