@@ -1,0 +1,4 @@
+Oi tudo bem? Prazer meu nome é Luiz Antonio dos Santos da Silva, mas pode me chamar de Antonio, tenho 19 anos e estou no segundo período do curso de Bacharelado em Sistemas da Informação. 
+Sou nascido e criado na cidade do Rio de Janeiro. Desde que me entendo como gente eu sempre tive muita curiosidade com a tecnologia, minha mãe me diz que eu praticamente nasci ao lado do computador. 
+Meu primeiro contato com a programação foi com HTML e CSS num curso da Udemy e gostei muito de aprender sobre front-end e dali fui me aventurando com JavaScript, Python e C e estar cursando uma faculdade pública sobre a área que tanto gosto para mim tá sendo a realização de um sonho tanto pessoal quanto profissional. 
+Eu adoro jogar videogame (meu jogo favorito é The Witcher 3), ler quadrinhos, estudar ou assistir um filme no meu tempo livre.
